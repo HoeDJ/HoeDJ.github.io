@@ -2,7 +2,7 @@
     "room": "Trap for Hoes",
     "author": "FEK",
     "icon": null,
-    "css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
