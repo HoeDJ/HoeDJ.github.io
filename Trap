@@ -2,7 +2,7 @@
     "room": "Trap for Hoes",
     "author": "FEK",
     "icon": null,
-    "css": null,
+    "css": "https://raw.githubusercontent.com/HoeDJ/HoeDJ.github.io/master/extras",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
