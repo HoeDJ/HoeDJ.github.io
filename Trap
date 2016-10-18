@@ -1,7 +1,6 @@
 {
     "room": "Trap for Hoes",
     "author": "FEK",
-    "icon": null,
     "css": "https://raw.githubusercontent.com/HoeDJ/HoeDJ.github.io/master/extras.css",
     "rules": {
         "allowAutorespond": true,
@@ -10,7 +9,7 @@
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
-        "allowShowingMehs": true,
+        "allowShowingMehs": false,
         "forceSmartVote": false
     },
     "ccc": {
