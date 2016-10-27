@@ -1,7 +1,7 @@
 {
     "room": "Trap for Hoes",
     "author": "FEK",
-    "css": "https://raw.githubusercontent.com/HoeDJ/HoeDJ.github.io/master/extras.css",
+    "css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
